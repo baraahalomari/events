@@ -1,0 +1,28 @@
+{
+  "name": "events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caps.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node caps.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baraahalomari/events.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baraahalomari/events/issues"
+  },
+  "homepage": "https://github.com/baraahalomari/events#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
